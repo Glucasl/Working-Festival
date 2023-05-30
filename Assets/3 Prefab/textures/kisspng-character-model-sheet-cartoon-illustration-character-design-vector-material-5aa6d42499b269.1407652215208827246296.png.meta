@@ -1,0 +1,465 @@
+fileFormatVersion: 2
+guid: 7aa1afc9a014b3a498b73ab5ddb2bf22
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-character-model-sheet-cartoon-illustration-character-design-vector-material-5aa6d42499b269.1407652215208827246296_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1143
+        width: 274
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efba91969f497514692e61664cc47ee4
+      internalID: 727206021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-character-model-sheet-cartoon-illustration-character-design-vector-material-5aa6d42499b269.1407652215208827246296_1
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1143
+        width: 160
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d52e314d4d9964409ce1054fd81b03f
+      internalID: 697896421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-character-model-sheet-cartoon-illustration-character-design-vector-material-5aa6d42499b269.1407652215208827246296_2
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1143
+        width: 269
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c328b714cc61c0e4e81bcbc615a1cf1e
+      internalID: -484087385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-character-model-sheet-cartoon-illustration-character-design-vector-material-5aa6d42499b269.1407652215208827246296_3
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 1143
+        width: 200
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ec7f1c0034d0d488acfe674b13f475
+      internalID: -147506624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-character-model-sheet-cartoon-illustration-character-design-vector-material-5aa6d42499b269.1407652215208827246296_4
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 1143
+        width: 213
+        height: 452
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cf30da8143f4848b6d54c2daedbdaa
+      internalID: -1008899452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-character-model-sheet-cartoon-illustration-character-design-vector-material-5aa6d42499b269.1407652215208827246296_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 577
+        width: 409
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969f4ed49c56a274698bab04d87f0133
+      internalID: 1549912895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-character-model-sheet-cartoon-illustration-character-design-vector-material-5aa6d42499b269.1407652215208827246296_6
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 577
+        width: 189
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43128e7074ab450488250ea56b8e3efa
+      internalID: -990045579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-character-model-sheet-cartoon-illustration-character-design-vector-material-5aa6d42499b269.1407652215208827246296_7
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 577
+        width: 191
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1a2abe87c740e419b054bdd0f34096
+      internalID: -1481081299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-character-model-sheet-cartoon-illustration-character-design-vector-material-5aa6d42499b269.1407652215208827246296_8
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 577
+        width: 201
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3622bb963c8c354eb0647c00c70f97f
+      internalID: 20601779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-character-model-sheet-cartoon-illustration-character-design-vector-material-5aa6d42499b269.1407652215208827246296_9
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 577
+        width: 354
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828adebd09507bb4695a25a3981af624
+      internalID: -424021025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-character-model-sheet-cartoon-illustration-character-design-vector-material-5aa6d42499b269.1407652215208827246296_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 274
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb71757d26093d418d20cd99cd2c492
+      internalID: -292415607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-character-model-sheet-cartoon-illustration-character-design-vector-material-5aa6d42499b269.1407652215208827246296_11
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 0
+        width: 240
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8b457b5ce91504797c538f612ec331
+      internalID: -95146731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-character-model-sheet-cartoon-illustration-character-design-vector-material-5aa6d42499b269.1407652215208827246296_12
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 0
+        width: 174
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7721d4ed7b595c4ea88e39564b0be09
+      internalID: -619082764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-character-model-sheet-cartoon-illustration-character-design-vector-material-5aa6d42499b269.1407652215208827246296_13
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 0
+        width: 173
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023156839b7b4e64a85184c2583c5bdd
+      internalID: -420252410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-character-model-sheet-cartoon-illustration-character-design-vector-material-5aa6d42499b269.1407652215208827246296_14
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 0
+        width: 339
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43960a1040aaec041b4f2517983b5bc5
+      internalID: -470167468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c87751dd621c50a4fa2f15544f547d90
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kisspng-character-model-sheet-cartoon-illustration-character-design-vector-material-5aa6d42499b269.1407652215208827246296_0: 727206021
+      kisspng-character-model-sheet-cartoon-illustration-character-design-vector-material-5aa6d42499b269.1407652215208827246296_12: -619082764
+      kisspng-character-model-sheet-cartoon-illustration-character-design-vector-material-5aa6d42499b269.1407652215208827246296_6: -990045579
+      kisspng-character-model-sheet-cartoon-illustration-character-design-vector-material-5aa6d42499b269.1407652215208827246296_9: -424021025
+      kisspng-character-model-sheet-cartoon-illustration-character-design-vector-material-5aa6d42499b269.1407652215208827246296_5: 1549912895
+      kisspng-character-model-sheet-cartoon-illustration-character-design-vector-material-5aa6d42499b269.1407652215208827246296_4: -1008899452
+      kisspng-character-model-sheet-cartoon-illustration-character-design-vector-material-5aa6d42499b269.1407652215208827246296_2: -484087385
+      kisspng-character-model-sheet-cartoon-illustration-character-design-vector-material-5aa6d42499b269.1407652215208827246296_10: -292415607
+      kisspng-character-model-sheet-cartoon-illustration-character-design-vector-material-5aa6d42499b269.1407652215208827246296_8: 20601779
+      kisspng-character-model-sheet-cartoon-illustration-character-design-vector-material-5aa6d42499b269.1407652215208827246296_1: 697896421
+      kisspng-character-model-sheet-cartoon-illustration-character-design-vector-material-5aa6d42499b269.1407652215208827246296_11: -95146731
+      kisspng-character-model-sheet-cartoon-illustration-character-design-vector-material-5aa6d42499b269.1407652215208827246296_3: -147506624
+      kisspng-character-model-sheet-cartoon-illustration-character-design-vector-material-5aa6d42499b269.1407652215208827246296_13: -420252410
+      kisspng-character-model-sheet-cartoon-illustration-character-design-vector-material-5aa6d42499b269.1407652215208827246296_14: -470167468
+      kisspng-character-model-sheet-cartoon-illustration-character-design-vector-material-5aa6d42499b269.1407652215208827246296_7: -1481081299
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
